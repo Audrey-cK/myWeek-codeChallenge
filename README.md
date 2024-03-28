@@ -1,37 +1,42 @@
-TITLE:myWeek-1codeChallenge.
+                    MYWEEK-CODECHALLENGE.
 
-Description:
+This repository contains solutions to three toy problems implemented in JavaScript.
 
-this is a project that am working on in order to practice my learnt coding.It has only javascript used as the main coding language.
-The coding has been prety challenging,but I hope to learn more
+Code challenges
+1.Student Grade Generator
+Given a student's mark, determine the corresponding grade.
+2.Speed Detector
+Calculate demerit points for a driver based on their speed.
+3.Net Salary Calculator
+Calculate net salary after one's salary deductions.
 
-CONTENTS:
-Student Grade Generator
-Speed Detector
-Net Salary Calculator
 
-SET-UP-INSTRUCTIONS:
-Student Grade Generator
+Set Up Instructions
+To run these solutions locally:
 
-Write a program that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade:
+Clone this repository:
 
-- A > 79
-- B - 60 to 79
-- C - 59 to 49
-- D - 40 to 49
-- E - less than 40.
+git clone git@github.com:Howtie06/myWeek-codeChallenge.git
+Navigate to the project directory:
 
-Speed Detector
+cd Code-challenge-Wk-1-Toy-Problems
+Open the files in your preferred code editor and run them using a JavaScript runtime environment.
 
-Write a program that takes as input the speed of a car e.g 80. If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points.
+Repository Structure
+The repository contains the following files:
 
-For example, if the speed is 80, it should print: “Points: 2”. If the driver gets more than 12 points, the function should print: “License suspended”.
+student.js: Contains the solution for the Student Grade Generator challenge.
+speed.js: Contains the solution for the Speed Detector challenge.
+netSalaryCalculator.js: Contains the solution for the Net Salary Calculator challenge.
+README.md: This file provides an overview of the project and instructions for running the solutions.
 
- Net Salary Calculator
 
-Write a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e. Tax), NHIFDeductions, NSSFDeductions, gross salary, and net salary.
+Solutions
+Each JavaScript file contains the solution for one of the challenges. The functions within the files are properly commented to explain their purpose and usage.
 
-**NB:** Use KRA, NHIF, and NSSF values provided in the link below.
+Contributors
+Audrey Cherop
+Email: audreycherop06@gmail.com
+Contribution
+Contributions are welcome! If you find any issues or have suggestions for improvements submit a pull request.
 
-- [KRA Tax Rates](https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye)
-- [NHIF and NSSF rates](https://www.aren.co.ke/payroll/taxrates.htm)
