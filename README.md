@@ -34,9 +34,9 @@ The repository contains the following files:
 <h2>Solutions</h2>
 Each JavaScript file contains the solution for one of the challenges. The functions within the files are properly commented to explain their purpose and usage.
 
-<h3>Contributors</h3>
-Audrey Cherop
-Email: audreycherop06@gmail.com
-Contribution
-Contributions are welcome! If you find any issues or have suggestions for improvements submit a pull request.
+<p><h3>Contributors</h3>
+<p>Audrey Cherop</p>
+<p>Email: audreycherop06@gmail.com</p></p>
+<p><h3>Contribution</h3>
+<p>Contributions are welcome! If you find any issues or have suggestions for improvements submit a pull request.</p></p>
 
