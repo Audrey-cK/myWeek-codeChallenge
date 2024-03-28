@@ -36,7 +36,7 @@ Each JavaScript file contains the solution for one of the challenges. The functi
 
 <p><h3>Contributors</h3>
 <p>Audrey Cherop</p>
-<p> <a href=audreycherop06@gmail.com></p></p>
+<p>Email:audreycherop06@gmail.com</p></p>
 <p><h3>Contribution</h3>
 <p>Contributions are welcome! If you find any issues or have suggestions for improvements submit a pull request.</p></p>
 
